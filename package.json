@@ -1,0 +1,29 @@
+{
+  "name": "ultah-ku",
+  "version": "1.0.0",
+  "description": "My Birthday Countdown Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fauzaro01/ultah-ku.git"
+  },
+  "keywords": [
+    "website",
+    "birthday"
+  ],
+  "author": "fauzaro01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fauzaro01/ultah-ku/issues"
+  },
+  "homepage": "https://github.com/Fauzaro01/ultah-ku#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
